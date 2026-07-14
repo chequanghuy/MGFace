@@ -1,5 +1,8 @@
 # MGFace: Mask-Gated Face Matching via Conditional Similarity Routing
 
+<img width="569" height="179" alt="face-Page-10" src="https://github.com/user-attachments/assets/f81092a5-0b0d-485b-829d-bfd4d347f9a3" />
+
+
 ## Setup
 ```bash
 git clone https://github.com/chequanghuy/MGFace.git
@@ -26,6 +29,12 @@ MGFace/
 python mgface.py -fm arcface -mask
 python mgface.py -fm facenet -mask
 ```
+
+## Results
+
+<img width="2648" height="547" alt="face-Page-8" src="https://github.com/user-attachments/assets/80c9b76d-1c04-44d1-b991-ec1156fc7679" />
+
+
 ## Run examples
 
 ```bash
