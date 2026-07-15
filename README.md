@@ -6,6 +6,7 @@
 ## Setup
 ```bash
 git clone https://github.com/chequanghuy/MGFace.git
+cd KDTwin
 pip install -r requirements.txt
 ```
 ## Download
